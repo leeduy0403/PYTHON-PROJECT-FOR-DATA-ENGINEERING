@@ -18,3 +18,21 @@ Course link: https://www.coursera.org/learn/python-project-for-data-engineering
   
   **Module 3:**
   In this bonus module, you will become familiar with the best practices for coding as documented in the Python Enhancement Proposal (PEP8) style guide. You will learn about static code analysis, ensuring that your code adheres to the coding rules. Next, you will learn how to create and run unit tests. Finally, you will learn how to create, verify, and run Python packages.
+
+ # Final Project: Acquiring and processing information on world's largest banks
+ 
+  - Task 1: Logging function
+    
+  - Task 2: Extraction of data
+    
+  - Task 3: Transformation of data
+    
+  - Task 4: Loading to CSV
+    
+  - Task 5: Loading to Database
+    
+  - Task 6: Function to Run queries on Database
+    
+  - Task 7: Verify log entries
+
+ 
