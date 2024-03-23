@@ -1,6 +1,9 @@
 # PYTHON-PROJECT-FOR-DATA-ENGINEERING
+
 Author: IBM course
+
 Platform: Coursera
+
 Completion date: 27/02/2024
 
 Course link: https://www.coursera.org/learn/python-project-for-data-engineering
